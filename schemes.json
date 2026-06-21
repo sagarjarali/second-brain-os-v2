@@ -1,0 +1,141 @@
+{
+  "PM Kisan Samman Nidhi Yojana": {
+    "benefit": "Rs 6000 per year in three installments of Rs 2000 each",
+    "eligibility": "Small and marginal farmers with cultivable land up to 2 hectares",
+    "how_to_apply": "Visit pmkisan.gov.in or nearest Common Service Centre",
+    "documents": "Aadhaar card, land records, bank account details"
+  },
+
+  "Karnataka Raitha Siri Scheme": {
+    "benefit": "Rs 2000 per acre per season, maximum Rs 10000 per year",
+    "eligibility": "Farmers who own land in Karnataka and are registered with the agriculture department",
+    "how_to_apply": "Visit nearest Raitha Samparka Kendra or apply online at karnataka.gov.in",
+    "documents": "Land records, Aadhaar card, bank passbook"
+  },
+
+  "PM Fasal Bima Yojana": {
+    "benefit": "Crop insurance against losses due to natural calamities with low premium rates",
+    "eligibility": "All farmers growing notified crops in notified areas",
+    "how_to_apply": "Contact nearest bank or insurance company before sowing season",
+    "documents": "Land records, Aadhaar card, bank account, sowing certificate"
+  },
+
+  "Pradhan Mantri Kisan Credit Card": {
+    "benefit": "Credit up to Rs 3 lakh at 7% interest per year, effective 4% with prompt repayment",
+    "eligibility": "All farmers including tenant farmers and sharecroppers",
+    "how_to_apply": "Visit nearest bank branch with land records",
+    "documents": "Aadhaar card, land records, passport photo, bank account"
+  },
+
+  "Karnataka Krishi Yantra Dhare Scheme": {
+    "benefit": "Subsidized rental access to tractors, tillers and harvesters",
+    "eligibility": "Small farmers with less than 2 hectares of land in Karnataka",
+    "how_to_apply": "Visit nearest Raitha Samparka Kendra",
+    "documents": "Land records, Aadhaar card, farmer ID"
+  },
+
+  "PM Kisan Tractor Subsidy Scheme": {
+    "benefit": "20% to 50% subsidy on new tractor purchase, up to Rs 1.5 lakh",
+    "eligibility": "Farmers with land holding up to 5 acres who do not already own a tractor",
+    "how_to_apply": "Apply through state agriculture department or dealer",
+    "documents": "Land records, Aadhaar card, bank account, quotation from dealer"
+  },
+
+  "Rashtriya Krishi Vikas Yojana (RKVY)": {
+    "benefit": "Funding for farm infrastructure, storage and processing units",
+    "eligibility": "Farmers and farmer groups in all states",
+    "how_to_apply": "Contact district agriculture officer",
+    "documents": "Land records, project proposal, bank account"
+  },
+
+  "Karnataka Bhagyalakshmi Scheme": {
+    "benefit": "Rs 10000 fixed deposit at birth, maturing to Rs 1 lakh at age 18",
+    "eligibility": "BPL families in Karnataka with a girl child born after April 2006",
+    "how_to_apply": "Apply at nearest Anganwadi center within one year of birth",
+    "documents": "Birth certificate, BPL card, Aadhaar card, bank account"
+  },
+
+  "Pradhan Mantri Awas Yojana Gramin": {
+    "benefit": "Housing assistance of Rs 1.2 lakh in plain areas and Rs 1.3 lakh in hilly areas",
+    "eligibility": "Homeless families and families living in kutcha houses in rural areas",
+    "how_to_apply": "Apply through Gram Panchayat or visit pmayg.nic.in",
+    "documents": "Aadhaar card, bank account, BPL certificate"
+  },
+
+  "Soil Health Card Scheme": {
+    "benefit": "Free soil testing and fertilizer recommendations",
+    "eligibility": "All farmers across India",
+    "how_to_apply": "Contact nearest Krishi Vigyan Kendra or agriculture department",
+    "documents": "Land records, Aadhaar card"
+  },
+
+  "National Food Security Mission": {
+    "benefit": "Subsidized seeds, fertilizers and farmer training",
+    "eligibility": "Farmers in identified districts across India",
+    "how_to_apply": "Contact district agriculture officer",
+    "documents": "Land records, farmer registration certificate"
+  },
+
+  "Karnataka Organic Farming Scheme": {
+    "benefit": "Rs 10000 per hectare per year for conversion to organic farming",
+    "eligibility": "Farmers willing to adopt organic farming for at least 3 years",
+    "how_to_apply": "Register at nearest Raitha Samparka Kendra",
+    "documents": "Land records, Aadhaar card, commitment letter"
+  },
+
+  "PM Kusum Scheme": {
+    "benefit": "90% subsidy on solar pumps for irrigation",
+    "eligibility": "All farmers with agricultural land and water source",
+    "how_to_apply": "Apply through state nodal agency or DISCOM",
+    "documents": "Land records, Aadhaar card, water source proof"
+  },
+
+  "Kisan Vikas Patra": {
+    "benefit": "Investment doubles in 115 months",
+    "eligibility": "Any Indian citizen including farmers",
+    "how_to_apply": "Visit nearest post office",
+    "documents": "Aadhaar card, PAN card for investments above Rs 50000"
+  },
+
+  "Karnataka Sericulture Scheme": {
+    "benefit": "Subsidy up to Rs 30000 per hectare for mulberry plantation",
+    "eligibility": "Farmers in Karnataka interested in silk farming",
+    "how_to_apply": "Contact Department of Sericulture Karnataka",
+    "documents": "Land records, Aadhaar card, bank account"
+  },
+
+  "National Horticulture Mission": {
+    "benefit": "Subsidies on drip irrigation, poly houses and cold storage",
+    "eligibility": "Farmers growing horticultural crops",
+    "how_to_apply": "Contact district horticulture officer",
+    "documents": "Land records, project proposal, bank account"
+  },
+
+  "Karnataka Drought Relief Scheme": {
+    "benefit": "Rs 6800 per hectare for irrigated crops and Rs 3400 per hectare for dryland crops",
+    "eligibility": "Farmers in drought-declared taluks in Karnataka",
+    "how_to_apply": "Apply through village accountant or Gram Panchayat",
+    "documents": "Land records, crop loss certificate, Aadhaar card, bank account"
+  },
+
+  "Pradhan Mantri Micro Food Processing Scheme": {
+    "benefit": "35% credit-linked subsidy up to Rs 10 lakh",
+    "eligibility": "Individual farmers and farmer groups wanting to process farm produce",
+    "how_to_apply": "Apply through state nodal agency or visit mofpi.gov.in",
+    "documents": "Land records, project report, bank account, Aadhaar card"
+  },
+
+  "E-NAM National Agriculture Market": {
+    "benefit": "Direct online access to buyers and better crop prices",
+    "eligibility": "All farmers registered with their APMC",
+    "how_to_apply": "Register at enam.gov.in or nearest APMC office",
+    "documents": "Aadhaar card, bank account, APMC registration"
+  },
+
+  "Karnataka Raitha Bandhu Scheme": {
+    "benefit": "Zero-interest crop loans up to Rs 3 lakh",
+    "eligibility": "Farmers with land records in Karnataka registered with cooperative banks",
+    "how_to_apply": "Visit nearest District Cooperative Central Bank",
+    "documents": "Land records, Aadhaar card, bank passbook, farmer ID card"
+  }
+}
